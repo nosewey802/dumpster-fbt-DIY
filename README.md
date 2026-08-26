@@ -1,2 +1,2 @@
 # dumpster-fbt-DIY
-vr trackers made with whatever you have in your freaking hands!! (almost whatever...)
+guide to make the cheapest vr trackers you'll ever see!
