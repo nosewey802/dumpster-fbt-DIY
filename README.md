@@ -18,9 +18,13 @@ Provide a guide to make full body trackers for the cheapest price to make it mor
 * **Power Switch:** Mini ON/OFF slide switch.
 * **Enclosure:** Reused Tic Tac containers 
 * **Battery Holder:** Single battery holder.
-  
----
 
+## Wiring (MPU6050 and ESP32)
+ *VCC --> 3.3V
+ *GND --> GND
+ *SDA --> GPIO21
+ *SCL --> GPIO22
+ 
 ## Software & 3D Modeling
 
 * **Firmware:** SlimeVR firmware loaded onto the ESP32 mini.
