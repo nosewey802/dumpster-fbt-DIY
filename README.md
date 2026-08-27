@@ -19,11 +19,12 @@ Provide a guide to make full body trackers for the cheapest price to make it mor
 * **Enclosure:** Reused Tic Tac containers 
 * **Battery Holder:** Single battery holder.
 
-## Wiring (MPU6050 and ESP32)
-* **VCC** --> 3.3V
-* **GND** --> GND
-* **SDA** --> GPIO 21
-* **SCL** --> GPIO 22
+## Wiring
+ *(MPU6050 and ESP32)
+  * **VCC** --> 3.3V
+  * **GND** --> GND
+  * **SDA** --> GPIO 21
+  * **SCL** --> GPIO 22
  
 ## Software & 3D Modeling
 
