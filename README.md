@@ -29,7 +29,7 @@ Provide a guide to make full body trackers for the cheapest price to make it mor
   * battery (+) --> Pad B+
   * battery (-) --> Pad B-
  ## **TP4056 to power switch to the ESP32**
-  * TP4056 (OUT+)** --> **power switch (center pin)
+  * TP4056 (OUT+) --> **power switch (center pin)
   * power switch (side pin) --> ESP32 (5V)
   * TP4056 (OUT-) --> ESP32 (GND)
 
