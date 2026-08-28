@@ -21,15 +21,15 @@ Provide a guide to make full body trackers for the cheapest price to make it mor
 
 ## Wiring
  ## **MPU6050 and ESP32**
-  * **VCC** --> 3.3V
-  * **GND** --> GND
-  * **SDA** --> GPIO 21
-  * **SCL** --> GPIO 22
+  * VCC --> 3.3V
+  * GND --> GND
+  * SDA --> GPIO 21
+  * SCL --> GPIO 22
  ## **18650 Battery and TP4056**
   * battery (+) --> Pad B+
   * battery (-) --> Pad B-
  ## **TP4056 to power switch to the ESP32**
-  * TP4056 (OUT+) --> **power switch (center pin)
+  * TP4056 (OUT+) --> power switch (center pin)
   * power switch (side pin) --> ESP32 (5V)
   * TP4056 (OUT-) --> ESP32 (GND)
 
